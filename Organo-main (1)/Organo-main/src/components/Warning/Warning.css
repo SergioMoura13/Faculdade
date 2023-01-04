@@ -1,0 +1,7 @@
+#warning{
+	display: block;
+	color: red;
+	font-family: var(--font-normal);
+	font-weight: 900;
+	margin-top: 2em;
+}

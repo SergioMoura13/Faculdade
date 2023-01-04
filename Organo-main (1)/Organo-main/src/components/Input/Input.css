@@ -1,0 +1,18 @@
+.input-label{
+	font-family: var(--font-normal);
+	font-size: 1.2rem;
+	font-weight: 700;
+	letter-spacing: .5px;
+}
+
+.input{
+	font-family: var(--font-normal);
+	background-color: white;
+	box-sizing: border-box;
+	font-size: 1rem;
+	border: 0;
+	padding: 1.2em;
+	margin: 0.5em 0em 2em;
+	outline: 0;
+	width: 100%;
+}

@@ -1,0 +1,6 @@
+.underline{
+	width: 1.2em;
+	height: .3em;
+	display: inline-block;
+	background-color: var(--color-main-purple-600);
+}

@@ -1,0 +1,17 @@
+#card-form-button{
+	font-family: var(--font-normal);
+	font-weight: 900;
+	font-size: 1.4rem;
+	border-radius: 0.35em;
+	background-color: var(--color-main-purple-600);
+	color: white;
+	width: 7.5em;
+	height: 3em;
+	border: 0;
+	margin-top: 2em;
+}
+
+#card-form-button:hover{
+	cursor: pointer;
+	color: var(--color-main-green-300)
+}
